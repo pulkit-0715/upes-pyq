@@ -3,7 +3,7 @@ import subprocess
 commands = [
     ["node", "generate-json.js"],
     ["git", "add", "."],
-    ["git", "commit", "-m", "Python automation file"],
+    ["git", "commit", "-m", "PYQ added"],
     ["git", "push", "origin", "main"]
 ]
 

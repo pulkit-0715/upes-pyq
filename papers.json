@@ -40,8 +40,8 @@
         "dsa": {
             "endsem": [
                 {
-                    "title": "DSA mid sem 2026",
-                    "file": "pyqs/2/dsa/endsem/DSA mid sem 2026.pdf"
+                    "title": "DSA endsem 2026",
+                    "file": "pyqs/2/dsa/endsem/DSA endsem 2026.pdf"
                 },
                 {
                     "title": "dsa-endsem-2021",
@@ -52,7 +52,12 @@
                     "file": "pyqs/2/dsa/endsem/dsa-endsem-2022.pdf"
                 }
             ],
-            "midsem": [],
+            "midsem": [
+                {
+                    "title": "DSA mid sem 2026",
+                    "file": "pyqs/2/dsa/midsem/DSA mid sem 2026.pdf"
+                }
+            ],
             "quizs": []
         },
         "maths2": {
